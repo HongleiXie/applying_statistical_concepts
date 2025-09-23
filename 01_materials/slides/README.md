@@ -1,4 +1,4 @@
-This folder contains a series of slide decks that cover core concepts related to applying statistical concpets. The slides are organized in a sequence that introduces foundational concepts and progresses to more advanced topics.
+This folder contains a series of slide decks that cover core concepts related to "Linear regression, classification, and resampling". The slides are organized in a sequence that introduces foundational concepts and progresses to more advanced topics.
 
 **Slide Decks**
 

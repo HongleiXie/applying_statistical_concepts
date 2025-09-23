@@ -1,4 +1,4 @@
-# Applying Statistical Concepts: Linear regression, classification, and resampling
+# Linear regression, classification, and resampling
 
 ## Content
 * [Description](#description)
@@ -14,7 +14,6 @@
   - [Multiple linear regression, interactions, qualitative predictors](#multiple-linear-regression-interactions-qualitative-predictors)
   - [Classification (logistic regression, generative models)](#classification-logistic-regression-generative-models)
   - [Resampling methods (CV, bootstrap) and Linear model selection and regularization](#resampling-methods-cv-bootstrap-and-linear-model-selection-and-regularization)
-  + [How to get help](#how-to-get-help)
 * [Folder Structure](#folder-structure)
 
 ## Description
@@ -25,12 +24,12 @@ This module introduces the skills required to design, implement, and test basic 
 
 By the end of the module, participants will be able to:
 
-- Implement and interpret the results from several supervised learning approaches for **classification and regression**, using libraries like pandas, numpy, and scikit-learn.
-- Use **resampling methods** such as cross-validation and bootstrapping to select and evaluate models.
-- Determine the **requirements for reproducible machine learning** and ensure consistency across model implementations.
-- Analyze the **uncertainties and limitations** associated with model results and understand the **ethical implications** of applying these models in real-world decision-making.
-- Effectively explain the **trade-offs and considerations** for various statistical methods to both **technical** and **non-technical** audiences.
-- Apply **pandas, numpy, and scikit-learn** for data manipulation, model implementation, and evaluation.
+- Implement and interpret the results from several supervised learning approaches for classification and regression.
+- Use resampling methods such as cross-validation and bootstrapping to select and evaluate models.
+- Understand the requirements for reproducible machine learning and ensure consistency across model implementations.
+- Analyze the uncertainties and limitations associated with model results and understand the ethical implications of applying these models in real-world decision-making.
+- Explain the trade-offs and considerations of various statistical methods to both technical and non-technical audiences.
+- Apply `pandas`, `numpy`, and `scikit-learn` for data manipulation, model implementation, and evaluation.
 
 ## Assignments
 
@@ -42,28 +41,28 @@ Participants should review the [Assignment Submission Guide](https://github.com/
 
 [Assignment 3](./02_activities/assignments/assignment_3.ipynb)
 
-**Assignment Due-dates**
+**Assignment Due Dates**
 
 | Assessment   | Content                            | Due Date     |
 |--------------|------------------------------------|--------------|
-| Assignment 1 | Classification (Sessions 1, 2)     | Sep 29 |
-| Assignment 2 | Regression (Sessions 3, 4)         | Oct 6    |
-| Assignment 3 | Clustering & Resampling (Sessions 5, 6) | Oct 13   |
+| Assignment 1 | Classification (Sessions 1, 2)     | Sept 7 |
+| Assignment 2 | Regression (Sessions 3, 4)         | Sept 14    |
+| Assignment 3 | Clustering & Resampling (Sessions 5, 6) | Sept 21   |
 
 ### Contacts
-**Questions can be submitted to the _#cohort-4-help_ channel on Slack**
-* Technical Facilitator: **Holly**. Emails can be sent to xhonglei2007@gmail.com
-* Learning Support Staff: **Kasra**. Emails can be sent to vakiloroayaei.kasra@gmail.com
-* Learning Support Staff: **Amanda**. Emails can be sent to waiyuamanda.ng@mail.utoronto.ca
-* Learning Support Staff: **Vishnou**. Emails can be sent to vishnouvina@cs.toronto.edu
+**Questions can be submitted to the _#cohort-6-help_ channel on Slack**
+* Technical Facilitator: **Julia**. Questions can be sent via [Slack](https://uoft-dsi-certificates.slack.com/team/U06D4QM7YEA)
+* Learning Support Staff: **Ernani**. Questions can be sent via [Slack](https://uoft-dsi-certificates.slack.com/team/U06V88X2X3N)
+* Learning Support Staff: **Edward**. Questions can be sent via [Slack](https://uoft-dsi-certificates.slack.com/team/U090NAV8Z8U)
+* Learning Support Staff: **Gayathri**. Questions can be sent via [Slack](https://uoft-dsi-certificates.slack.com/team/U08R6URRSCT)
 
 ### Delivery of the Learning Module
 
-This module will include live learning sessions and optional, asynchronous work periods. During live learning sessions, the Technical Facilitator will introduce and explain key concepts and demonstrate core skills. Learning is facilitated during this time. Before and after each live learning session, the instructional team will be available for questions related to the core concepts of the module. Optional work periods are to be used to seek help from peers, the Learning Support team, and to work through the homework and assignments in the learning module, with access to live help. Content is not facilitated, but rather this time should be driven by participants. We encourage participants to come to these work periods with questions and problems to work through. 
+This module will include live learning sessions and optional, asynchronous work periods. During live learning sessions, the Technical Facilitator will introduce and explain key concepts and demonstrate core skills. Learning is facilitated during this time. Before and after each live learning session, the instructional team will be available for questions related to the core concepts of the module. Optional work periods are to be used to seek help from peers, the Learning Support team, and to work through the homework and assignments in the learning module, with access to live help. Content is not facilitated, but rather, this time should be driven by participants. We encourage participants to come to these work periods with questions and problems to work through. 
  
-Participants are encouraged to engage actively during the learning module. They key to developing the core skills in each learning module is through practice. The more participants engage in coding along with the instructional team, and applying the skills in each module, the more likely it is that these skills will solidify. 
+Participants are encouraged to engage actively during the learning module. The key to developing the core skills in each learning module is through practice. The more participants engage in coding with the instructional team and apply the skills in each module, the more likely these skills will solidify. 
 
-The technical facilitator will introduce the concepts through a collaborative live coding session using the Python notebooks found under `/01_materials/notebooks/`. Slides can be found under `/01_materials/slides/`.
+The technical facilitator will introduce the concepts through a collaborative live coding session using the Python notebooks, which can be found under `/01_materials/notebooks/`. Slides can be found under `/01_materials/slides/`.
 
 ## Schedule
 - Week 1 will focus on intro and classification methods
@@ -73,11 +72,11 @@ The technical facilitator will introduce the concepts through a collaborative li
 ### Requirements
 
 * Participants are expected to have completed Shell, Git, and Python learning modules.
-* Participants are encouraged to ask questions, and collaborate with others to enhance learning.
+* Participants are encouraged to ask questions and collaborate with others to enhance learning.
 * Participants must have a computer and an internet connection to participate in online activities.
-* Participants must not use generative AI such as ChatGPT to generate code in order to complete assignments. It should be use as a supportive tool to seek out answers to questions you may have.
+* Participants must not use generative AI such as ChatGPT to generate code to complete assignments. It should be used as a supportive tool to seek out answers to questions you may have.
 * We expect participants to have completed the steps in the [onboarding repo](https://github.com/UofT-DSI/Onboarding/tree/tech-onboarding-docs).
-* We encourage participants to default to having their camera on at all times, and turning the camera off only as needed. This will greatly enhance the learning experience for all participants and provides real-time feedback for the instructional team. 
+* We encourage participants to default to having their camera on at all times and turning the camera off only as needed. This will greatly enhance the learning experience for all participants and provides real-time feedback for the instructional team. 
 
 ## Resources
 Feel free to use the following as resources:
@@ -88,6 +87,7 @@ Feel free to use the following as resources:
 - [EMLT Tutorial](./04_cohort_three/additional_resources/05_review_session_material/emlt_tutorials.pdf) -->
 - Textbook: [Data Science: A First Introduction](https://python.datasciencebook.ca/index.html)
 - [Introduction to Statistical Learning with Python Documentation (ISLP)](https://islp.readthedocs.io/en/latest/index.html)
+- [Introduction to Machine Learning with Python](https://www.nrigroupindia.com/e-book/Introduction%20to%20Machine%20Learning%20with%20Python%20(%20PDFDrive.com%20)-min.pdf)
 
 ### Videos 
 - [Introduction to Statistical Learning with Python Video Playlist](https://www.youtube.com/playlist?list=PLoROMvodv4rPP6braWoRt5UCXYZ71GZIQ)
@@ -96,7 +96,7 @@ Feel free to use the following as resources:
 - [Linear Regression, explained in 2 minutes](https://www.youtube.com/watch?v=CtsRRUddV2s)
 - [Linear Regression, Clearly Explained!!!](https://www.youtube.com/watch?v=7ArmBVF2dCs&pp=ygUic2ltcGxlIGxpbmVhciByZWdyZXNzaW9uIHN0YXRxdWVzdA%3D%3D)
 
-#### Multiple linear regression, interactions, qualitative predictors
+#### Multiple linear regression, interactions, and qualitative predictors
 - [Multiple Regression, Clearly Explained!!!](https://www.youtube.com/watch?v=EkAQAi3a4js&pp=ygUic2ltcGxlIGxpbmVhciByZWdyZXNzaW9uIHN0YXRxdWVzdA%3D%3D)
 
 #### Classification (logistic regression, generative models)
@@ -116,9 +116,6 @@ Feel free to use the following as resources:
 
 Alternative Textbook: [Data Science: A First Introduction](https://python.datasciencebook.ca/classification1.html) (Chapters 5-10)
 
-### How to get help
-![image](./steps_to_ask_for_help.png)
-
 ## Folder Structure
 
 ```markdown
@@ -130,8 +127,7 @@ Alternative Textbook: [Data Science: A First Introduction](https://python.datasc
 ├── 03_instructional_team
 ├── 04_this_cohort
 ├── LICENSE
-├── README.md
-└── steps_to_ask_for_help.png
+└── README.md
 ```
 
 * **.github**: Contains issue templates and pull request templates for the repository.
@@ -142,4 +138,4 @@ Alternative Textbook: [Data Science: A First Introduction](https://python.datasc
 * **.gitignore**: Files to exclude from this folder, specified by the Technical Facilitator
 * **LICENSE**: The license for this repository.
 * **README.md**: This file.
-* **steps_to_ask_for_help.png**: Guide on how to ask for help.
+

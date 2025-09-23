@@ -8,13 +8,9 @@ paginate: true
 # Classification II
 ```console
 Data Sciences Institute
-Applying Statistical Concepts
+Linear Regression, Classification, and Resampling
 ```
 
----
-##### Acknowledgements
-- Slides created by Julia Gallucci under the supervision of Rohan  Alexander.
-- Content adapted from: A First Introduction (Python Edition) Tiffany Timbers, Trevor Campbell, Melissa Lee, Joel Ostblom, Lindsey Heagy https://python.datasciencebook.ca/index.html
 ---
 ##### Learning objectives
 - Explain training, validation, and test data sets and their roles in classification.
